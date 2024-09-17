@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Default Dark+",
+    "editor.stickyScroll.enabled": false,
+    "files.autoSave": "afterDelay",
+    "java.project.referencedLibraries": [
+        "./*.jar"
+    ]
+}
